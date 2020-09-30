@@ -5,7 +5,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## **Demo Link:**
 
-https://www.youtube.com/watch?v=ozMwkHq5Luc&feature=youtu.be
+site over view : https://www.youtube.com/watch?v=ozMwkHq5Luc&feature=youtu.be
+
+my specific components video: https://youtu.be/nQksifO4T6M
+
+Weekly Progress Vids 
+week 1: https://share.vidyard.com/watch/LgSTMpmDeJdty6k82dREqB?
+week 2: https://share.vidyard.com/watch/VZk4aCn8uaK25XdZ2ih3hd?
+week 3: https://share.vidyard.com/watch/idy5E1rz8uk6JirQfinmkX?
+week 4: https://share.vidyard.com/watch/xy6qFsML34Xvu1n1CBhSyD?
 
 ## Development server
 
